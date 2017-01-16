@@ -10,4 +10,4 @@ For more information please consult the [/doc](/doc) folder.
 
 Note: This project has been used to backup the article with the same name published in "NET Report" magazine.
 
-VMA
+![Analytics](https://ga-beacon.appspot.com/UA-2402433-12/beacon.en.html)
